@@ -1,0 +1,4 @@
+S->zA | xSyB
+A->wAr | CB
+B->s | C | tC
+C-> lambda
